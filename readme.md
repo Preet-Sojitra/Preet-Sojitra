@@ -17,6 +17,6 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 ## 📎 Connect with me:
 [<img align = "left" alt = "Likedin" width = "25px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-[linkedin] : https://www.linkedin.com/in/preet-sojitra/
+[linkedin]: https://www.linkedin.com/in/preet-sojitra/
 #
 <h3 align = "center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
