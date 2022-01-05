@@ -15,7 +15,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 * ⚡ Fun fact: I ❤️ anything related to space and rockets 🚀<br/>
 
 ## 📎 Connect with me:
-[<img align = "left" alt = "Likedin" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png"](linkedin)
+[<img align = "left" alt = "Likedin" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />](linkedin)
 
 [linkedin] : https://www.linkedin.com/in/preet-sojitra/
 #
