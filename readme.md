@@ -33,7 +33,6 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/452/c-programming.png" />][C]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/344/git.png" />][Git]
 <br/>
-<br/>
 
 [HTML5]: https://cdn-icons-png.flaticon.com/512/174/174854.png
 [CSS3]: https://cdn-icons-png.flaticon.com/512/5968/5968242.png
@@ -49,7 +48,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 #
