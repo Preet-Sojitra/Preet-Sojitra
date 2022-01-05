@@ -1,6 +1,6 @@
 # Hello, folks!👋
 
-![](https://komarev.com/ghpvc/?username=Preet-Sojitra&label=Profile+Views) <br/>
+![](https://komarev.com/ghpvc/?username=Preet-Sojitra&label=Profile+Views) <br/> <br/>
 Glad to see you here 🤩!  
 
 Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and currently pursuing bachelor in Computer Science and Engineering 💻. I am passionate learner 💡 who's always willing to to learn and explore new things. Apart from that I also love to help and guide newbies 👨‍💻. I am currently into web development🕸️.
