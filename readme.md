@@ -1,7 +1,5 @@
 ### Hello, folks!👋 <!-- Add moving hand gif-->
 
-
-
 Glad to see you here 🤩! <!-- Add visitor stats-->
 
 Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and currently pursuing bachelor in Computer Science and Engineering 💻. I am passionate learner 💡 who's always willing to to learn and explore new things. Apart from that I also love to help and guide newbies 👨‍💻. I am currently into web development🕸️.
@@ -16,5 +14,9 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 * 😄 Pronouns : he/him <br/>
 * ⚡ Fun fact: I ❤️ anything related to space and rockets 🚀<br/>
 
+## 📎 Connect with me:
+[<img align = "left" alt = "Likedin" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png"](linkedin)
+
+[linkedin] : https://www.linkedin.com/in/preet-sojitra/
 #
 <h3 align = "center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
