@@ -1,4 +1,4 @@
-# Hello, folks!👋 <!-- Add moving hand gif-->
+# Hello, folks!👋
 
 ![](https://komarev.com/ghpvc/?username=Preet-Sojitra&label=Profile+Views) <br/>
 Glad to see you here 🤩!  
