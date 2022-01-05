@@ -27,8 +27,16 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 
 ## Languages and Tools:
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" />][HTML5]
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />][CSS3]
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][JS]
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/452/c-programming.png" />][C]
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/344/git.png" />][Git]
 
 [HTML5]: https://cdn-icons-png.flaticon.com/512/174/174854.png
+[CSS3]: https://cdn-icons-png.flaticon.com/512/5968/5968242.png
+[JS]: https://cdn-icons-png.flaticon.com/512/5968/5968292.png
+[C]: https://img.icons8.com/color/452/c-programming.png
+[Git]: https://img.icons8.com/color/344/git.png
 
 #
 <h3 align = "center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
