@@ -26,7 +26,9 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 [spotify]: https://open.spotify.com/user/6jbhehd0zs66e78kpi1hmmlbc?si=Hq9p8VQfTHOc9pf3RIYpyg
 
 ## Languages and Tools:
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" />]()
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" />][HTML5]
+
+[HTML5]: https://cdn-icons-png.flaticon.com/512/174/174854.png
 
 #
 <h3 align = "center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
