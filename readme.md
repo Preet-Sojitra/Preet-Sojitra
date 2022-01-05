@@ -48,7 +48,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=280&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
