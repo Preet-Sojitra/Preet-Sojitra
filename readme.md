@@ -18,7 +18,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/> <br/>
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/>
 
 [linkedin]: https://www.linkedin.com/in/preet-sojitra/
 [twitter]: https://twitter.com/Preet_Sojitra03
@@ -46,7 +46,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 <details>
 <summary> ⚡ Github Stats:</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
