@@ -54,8 +54,8 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 <details>
 <summary> ⚙️ Things I use to get stuff done</summary>
 <br/>
-    + OS:  Windows 10 
-    + Laptop: Dell Vostro (i5)
++ OS:  Windows 10 <br/>
++ Laptop: Dell Vostro (i5)
 </details>
 
 
