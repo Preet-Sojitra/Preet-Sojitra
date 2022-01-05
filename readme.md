@@ -18,7 +18,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/>
+[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/> <br/>
 
 [linkedin]: https://www.linkedin.com/in/preet-sojitra/
 [twitter]: https://twitter.com/Preet_Sojitra03
@@ -31,12 +31,16 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][JS]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/452/c-programming.png" />][C]
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/344/git.png" />][Git]
+<br/>
 
 [HTML5]: https://cdn-icons-png.flaticon.com/512/174/174854.png
 [CSS3]: https://cdn-icons-png.flaticon.com/512/5968/5968242.png
 [JS]: https://cdn-icons-png.flaticon.com/512/5968/5968292.png
 [C]: https://img.icons8.com/color/452/c-programming.png
 [Git]: https://img.icons8.com/color/344/git.png
+
+## Projects and Dev stuffs:
+
 
 #
 <h3 align = "center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
