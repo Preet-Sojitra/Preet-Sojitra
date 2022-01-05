@@ -58,7 +58,7 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 * **OS:**  Windows 10 <br/>
 * **Laptop:** Dell Vostro (i5) <br/>
 * **Broweser:** Firefox Web Browser </br>
-* **Code Editor:** VSCode <br/>
+* **Code Editor:** VSCode - The best editor out there <br/>
 * **To Stay Updated:** Linkedin, Twitter and Medium<br/>
 </details>
 
