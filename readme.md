@@ -29,15 +29,17 @@ You can message me anytime for any kind of help or guidance. <br/><br/>
 
 #
 ### Languages and Tools:
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" />][HTML5]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />][CSS3]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][JS]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/452/c-programming.png" />][C]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://img.icons8.com/color/344/git.png" />][Git]
+[<img align = "left" alt = "HTML%" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" />][HTML5]
+[<img align = "left" alt = "CSS3" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />][CSS3]
+[<img align = "left" alt = "TailwindCSS" width = "33px" src = "https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg" />][Tailwind]
+[<img align = "left" alt = "JavaScript" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][JS]
+[<img align = "left" alt = "C" width = "33px" src = "https://img.icons8.com/color/452/c-programming.png" />][C]
+[<img align = "left" alt = "Git" width = "33px" src = "https://img.icons8.com/color/344/git.png" />][Git]
 <br/>
 
 [HTML5]: https://cdn-icons-png.flaticon.com/512/174/174854.png
 [CSS3]: https://cdn-icons-png.flaticon.com/512/5968/5968242.png
+[Tailwind]: https://brandeps.com/icon-download/T/Tailwindcss-icon-vector-01.svg
 [JS]: https://cdn-icons-png.flaticon.com/512/5968/5968292.png
 [C]: https://img.icons8.com/color/452/c-programming.png
 [Git]: https://img.icons8.com/color/344/git.png
