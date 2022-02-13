@@ -1,6 +1,6 @@
 # Hello, folks!👋
 
-<img width="30%"  align="right" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" >
+<img width="33%"  align="right" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" >
 
 ![](https://komarev.com/ghpvc/?username=Preet-Sojitra&label=Profile+Views) <br/> <br/>
 Glad to see you here 🤩!
