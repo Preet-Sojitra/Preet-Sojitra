@@ -20,10 +20,10 @@ Myself Preet Sojitra 🙇 and I'm frontend developer💻. I'm from India and cur
 
 You can message me anytime for any kind of help or guidance. <br/><br/>
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1644741072~hmac=2a67ab947606c7ae47d69d9c1950a1d3" />][discord]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/>
+[<img align = "left" alt = "Twitter" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align = "left" alt = "Discord" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />][discord]
+[<img align = "left" alt = "Instagram" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
+[<img align = "left" alt = "Spotify" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/>
 
 [linkedin]: https://www.linkedin.com/in/preet-sojitra/
 [twitter]: https://twitter.com/Preet_Sojitra03
