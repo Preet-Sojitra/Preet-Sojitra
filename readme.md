@@ -9,8 +9,8 @@ Myself Preet Sojitra 🙇 .I'm frontend developer from India currently pursuing 
 
 ## Talking about personal stuffs:
 
-- 🔭 I’m currently working on something special 🤭 <br/>
-- 🌱 I'm currently learning JavaScript <br/>
+- 🔭 I’m currently working on some cool projects 🤭 <br/>
+- 🌱 I'm currently learning JavaScript and Python <br/>
 - 👨‍💻 Most of my projects are avaibale on [Github](https://github.com/Preet-Sojitra?tab=repositories) <br/>
 - 💬 Ask me anything related to HTML, CSS and Javascript. I am happy to help. <br/>
 - 📫 How to reach me: preet.dev373@gmail.com <br/>
