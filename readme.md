@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Preet-Sojitra&label=Profile+Views) <br/> <br/>
 Glad to see you here 🤩!
 
-Myself Preet Sojitra 🙇 .I'm frontend developer from India currently pursuing bachelor in Computer Science and Engineering 💻. I am passionate learner 💡 who's always willing to learn and explore new things. Apart from that I also love to help and guide newbies 👨‍💻. I am currently into web development🕸️. Looking forward to collab on web devleopment projects and AI/ML projects. 
+I'm Preet Sojitra, a frontend developer and freelancer from India currently pursuing bachelor in Computer Science and Engineering. I am passionate learner who's always willing to learn and explore new things. I am currently available for collaboration regarding projects related to web development. Feel free to [contact me](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com). I spend my leisure hours reading books. Right now I'm also trying my hand at machine learning and AI. I love to learn and explore new arenas. I make websites for people and small businesses. Contact me at [preet.dev373@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com). 
 
 ## Talking about personal stuffs:
 
@@ -21,12 +21,10 @@ Myself Preet Sojitra 🙇 .I'm frontend developer from India currently pursuing 
 You can message me anytime for any kind of help or guidance. <br/><br/>
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align = "left" alt = "Twitter" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align = "left" alt = "Discord" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />][discord]
 [<img align = "left" alt = "Spotify" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111624.png" />][spotify] <br/>
 
 [linkedin]: https://www.linkedin.com/in/preet-sojitra/
 [twitter]: https://twitter.com/Preet_Sojitra03
-[discord]: https://discord.gg/n32K4uBa6z
 [spotify]: https://open.spotify.com/user/6jbhehd0zs66e78kpi1hmmlbc?si=Hq9p8VQfTHOc9pf3RIYpyg
 
 #
