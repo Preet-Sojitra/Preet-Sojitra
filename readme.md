@@ -1,25 +1,28 @@
 # Hello, folks!👋
 
-<img width="350px"  align="right" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" > 
+<!-- <img width="350px"  align="right" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" >  -->
 
 ![](https://komarev.com/ghpvc/?username=Preet-Sojitra&label=Profile+Views) <br/> <br/>
 Glad to see you here 🤩!
 
+![Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/87543808/184222142-6aa892b9-7395-47ad-a655-28baac3fdacb.png)
+
+
 I'm Preet Sojitra, a frontend developer, open source enthusiast and freelancer from India currently pursuing bachelor in Computer Science and Engineering. I am passionate learner who's always willing to learn and explore new things. I am currently available for collaboration regarding projects related to web development. Feel free to [contact me](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com). I spend my leisure hours reading books. Right now I'm also trying my hand at machine learning and AI. I love to learn and explore new arenas. I make websites for people and small businesses. Contact me at [preet.dev373@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com). 
 
 ## 💫 Talking about personal stuff:
-🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning MERN Stack and also trying my hands on AI/ML<br>👨‍💻 Most of my projects are available on GitHub<br>💬 Ask me about web development. I am happy to help<br>📧 Reach me out at : preet.dev373@gmail.com<br>⚡ Fun fact : Space and Rockets attracts me 😅
+🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning MERN Stack and also trying my hands on AI/ML<br>👨‍💻 Most of my projects are available on GitHub<br>💬 Ask me about web development. I am happy to help<br>📧 Reach me out at : preet.dev373@gmail.com<br>⚡ Fun fact : Obsessed with Space and Rockets 🚀
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-sojitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preet_Sojitra03) 
 
 ## 💻 Skills:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)      	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Preet-Sojitra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Preet-Sojitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Preet-Sojitra&theme=github-dark&background=0D1117&border=4B8DDA&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preet-Sojitra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
