@@ -22,24 +22,10 @@ I'm Preet Sojitra, a frontend developer, open source enthusiast and freelancer f
 ## 📊 GitHub Stats:
 [![Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Preet-Sojitra&theme=github-dark&background=0D1117&border=4B8DDA&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preet-Sojitra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preet-Sojitra&layout=compact&theme=github_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-### Dev stuff:
-
-<details>
-<summary> ⚙️ Things I use to get stuff done</summary>
-<br/>
-
-- **OS:** Windows 10 <br/>
-- **Laptop:** Dell Vostro (i5) <br/>
-- **Broweser:** Firefox Web Browser </br>
-- **Code Editor:** VSCode - The best editor out there <br/>
-- **To Stay Updated:** Linkedin, Twitter and Medium<br/>
-</details>
-
-#
 
 <h3 align = "center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
 
@@ -91,5 +77,21 @@ You can message me anytime for any kind of help or guidance. <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=280&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Dev stuff:
+
+<details>
+<summary> ⚙️ Things I use to get stuff done</summary>
+<br/>
+
+- **OS:** Windows 10 <br/>
+- **Laptop:** Dell Vostro (i5) <br/>
+- **Broweser:** Firefox Web Browser </br>
+- **Code Editor:** VSCode - The best editor out there <br/>
+- **To Stay Updated:** Linkedin, Twitter and Medium<br/>
+</details>
+
+#
+
 
 </details> -->
