@@ -42,4 +42,4 @@ I'm Preet Sojitra, a frontend developer, open source enthusiast and freelancer f
 
 ### [View more](https://github.com/Preet-Sojitra/MyContributions)
 
-### <center> **Show some ❤️ by starring some of the repositories!** </center>
+<h3 align="center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
