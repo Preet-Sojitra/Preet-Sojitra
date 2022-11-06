@@ -36,9 +36,9 @@ I'm Preet Sojitra, a frontend developer, open source enthusiast and freelancer f
 
 ## 📔 Projects I have contributed to
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykdojo&repo=defaang&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykdojo&repo=defaang&show_owner=true&theme=github_dark)](https://github.com/csdojo-defaang/defaang)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&show_owner=true&theme=github_dark)](https://github.com/Preet-Sojitra/Contribute-To-This-Project)
 
 ### [View more](https://github.com/Preet-Sojitra/MyContributions)
 
