@@ -20,7 +20,7 @@ I'm Preet Sojitra, a frontend developer, open source enthusiast and freelancer f
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-sojitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preet_Sojitra03) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.itsmepreet/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-sojitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preet_Sojitra03)
 
 ## 💻 Skills
 
@@ -36,10 +36,10 @@ I'm Preet Sojitra, a frontend developer, open source enthusiast and freelancer f
 
 ## 📔 Projects I have contributed to
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykdojo&repo=defaang&show_owner=true&theme=github_dark)](https://github.com/csdojo-defaang/defaang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astro-reactive&repo=astro-reactive&show_owner=true&theme=github_dark)]([https://github.com/csdojo-defaang/defaang](https://github.com/astro-reactive/astro-reactive))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&show_owner=true&theme=github_dark)](https://github.com/Syknapse/Contribute-To-This-Project)
 
-#### [View all Contributions](https://github.com/Preet-Sojitra/MyContributions)
+  #### [View all Contributions](https://github.com/Preet-Sojitra/MyContributions)
 
 <h3 align="center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
