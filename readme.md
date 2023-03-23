@@ -4,7 +4,7 @@
 
 Glad to see you here 🤩!
 
-![Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/87543808/184222142-6aa892b9-7395-47ad-a655-28baac3fdacb.png)
+![image](https://user-images.githubusercontent.com/87543808/227244163-577410d0-9d97-40c1-8a46-2753b8646b63.png)
 
 Hello, my name is Preet Sojitra, and I am currently pursuing my undergraduate degree in Computer Science from Pandit Deendayal Energy University in India. As a frontend developer with experience in backend development, I specialize in creating websites for individuals and small businesses.
 
@@ -42,9 +42,7 @@ Please feel free to [contact me](https://mail.google.com/mail/?view=cm&fs=1&tf=1
 
 ## 📊 GitHub Stats
 
-[![Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Preet-Sojitra&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats)
+[![Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preet-Sojitra&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Preet-Sojitra&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preet-Sojitra&layout=compact&theme=github_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
