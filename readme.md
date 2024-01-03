@@ -6,13 +6,15 @@ Glad to see you here 🤩!
 
 ![image](https://user-images.githubusercontent.com/87543808/227244163-577410d0-9d97-40c1-8a46-2753b8646b63.png)
 
-Hello, my name is Preet Sojitra, and I am currently pursuing my undergraduate degree in Computer Science from Pandit Deendayal Energy University in India. As a frontend developer with experience in backend development, I specialize in creating websites for individuals and small businesses.
+Hello, I'm Preet Sojitra, currently a pre-final year undergraduate student pursuing Computer Science at Pandit Deendayal Energy University in India. My primary focus lies in the realms of Artificial Intelligence, Machine Learning, and Data Science, with a keen interest in robotics. As a developer skilled in both frontend and backend technologies, I specialize in crafting websites for individuals and small businesses. 
 
-My passion lies in the fields of machine learning and data science, and I am constantly seeking new opportunities to explore and deepen my understanding of these areas. I am also interested in Data Structures and Algorithms and strive to improve my programming skills continually.
+Passionate about advancing my skills in AI, ML, and robotics, I am enthusiastic about exploring new opportunities that allow me to delve deeper into these fields. Beyond my academic pursuits, I am an avid learner who spends free time delving into the wonders of space and the universe. 
 
-Apart from my academic pursuits, I am an avid learner and spend my free time learning about space and the universe.
+As a pre-final year student, I am open to collaborations and discussions regarding AI and ML projects. Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com) if you have any questions or if you're interested in exploring potential collaborations in the exciting realms of Artificial Intelligence, Machine Learning, and Data Science.
 
-Please feel free to [contact me](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com) if you have any questions or would like to discuss a potential collaboration.
+<!-- Resume Button -->
+<a href="https://drive.google.com/file/d/18UHMk9Ilr7rjncQpdagfZgIrkOwYAf9q/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
+
 
 ## 💫 Talking about personal stuff
 
@@ -26,19 +28,50 @@ Please feel free to [contact me](https://mail.google.com/mail/?view=cm&fs=1&tf=1
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-sojitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preet_Sojitra03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-sojitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preet_Sojitra03) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/preetsojitra)
+[![Website](https://img.shields.io/badge/Website-%23121011.svg?logo=google-chrome&logoColor=white)](https://preet-sojitra-github-io.vercel.app/)
 
 ## 💻 Skills
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+#### Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### Libraries
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23white.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23white.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23white.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%23white.svg?style=for-the-badge&logo=ROS&logoColor=white)
+
+#### Frameworks
+
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=for-the-badge&logo=Express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+
+#### Tools and Others
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%23316192.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+
 
 ## 📊 GitHub Stats
 
