@@ -4,7 +4,7 @@
 
 Glad to see you here 🤩!
 
-![image](https://user-images.githubusercontent.com/87543808/227244163-577410d0-9d97-40c1-8a46-2753b8646b63.png)
+![image](https://github.com/Preet-Sojitra/Preet-Sojitra/assets/87543808/67b9d797-8ff6-4001-9f4b-305b249a830b)
 
 Hello, I'm Preet Sojitra, currently a pre-final year undergraduate student pursuing Computer Science at Pandit Deendayal Energy University in India. My primary focus lies in the realms of Artificial Intelligence, Machine Learning, and Data Science, with a keen interest in robotics. As a developer skilled in both frontend and backend technologies, I specialize in crafting websites for individuals and small businesses. 
 
@@ -12,8 +12,8 @@ Passionate about advancing my skills in AI, ML, and robotics, I am enthusiastic 
 
 As a pre-final year student, I am open to collaborations and discussions regarding AI and ML projects. Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com) if you have any questions or if you're interested in exploring potential collaborations in the exciting realms of Artificial Intelligence, Machine Learning, and Data Science.
 
-<!-- Resume Button -->
-<a href="https://drive.google.com/file/d/18UHMk9Ilr7rjncQpdagfZgIrkOwYAf9q/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
+Download my Resume: <br> <br>
+<a href="https://drive.google.com/file/d/1ZaVB_yjHxXwfNzHqZKycnkZU5R_MeMPu/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
 
 
 ## 💫 Talking about personal stuff
@@ -38,8 +38,7 @@ As a pre-final year student, I am open to collaborations and discussions regardi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Libraries
@@ -49,10 +48,10 @@ As a pre-final year student, I am open to collaborations and discussions regardi
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23white.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23white.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23white.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-%23white.svg?style=for-the-badge&logo=ROS&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%23000.svg?style=for-the-badge&logo=ROS&logoColor=white)
 
 #### Frameworks
 
@@ -68,8 +67,8 @@ As a pre-final year student, I am open to collaborations and discussions regardi
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%23316192.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 
