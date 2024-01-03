@@ -81,7 +81,7 @@ Download my Resume: <br> <br>
 
 ## 📔 Projects I have contributed to
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astro-reactive&repo=astro-reactive&show_owner=true&theme=github_dark)](https://github.com/astro-reactive/astro-reactive)>)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astro-reactive&repo=astro-reactive&show_owner=true&theme=github_dark)](https://github.com/astro-reactive/astro-reactive)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&show_owner=true&theme=github_dark)](https://github.com/Syknapse/Contribute-To-This-Project)
 
