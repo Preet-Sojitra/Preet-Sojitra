@@ -6,21 +6,21 @@ Glad to see you here 🤩!
 
 ![image](https://user-images.githubusercontent.com/87543808/227244163-577410d0-9d97-40c1-8a46-2753b8646b63.png)
 
-Hello, I'm Preet Sojitra, currently a pre-final year undergraduate student pursuing Computer Science at Pandit Deendayal Energy University in India. My primary focus lies in the realms of Artificial Intelligence, Machine Learning, and Data Science, with a keen interest in robotics. As a developer skilled in both frontend and backend technologies, I specialize in crafting websites for individuals and small businesses. 
+Hello, I'm Preet Sojitra, currently a final year undergraduate student pursuing Computer Science at Pandit Deendayal Energy University in India. My primary focus lies in the realms of Artificial Intelligence, Machine Learning, and Data Science, with a keen interest in Computer Vision and robotics. As a developer skilled in both frontend and backend technologies, I specialize in crafting websites for individuals and small businesses.
 
-Passionate about advancing my skills in AI, ML, and robotics, I am enthusiastic about exploring new opportunities that allow me to delve deeper into these fields. Beyond my academic pursuits, I am an avid learner who spends free time delving into the wonders of space and the universe. 
+Passionate about advancing my skills in AI, ML, and robotics, I am enthusiastic about exploring new opportunities that allow me to delve deeper into these fields. Beyond my academic pursuits, I am an avid learner who spends free time delving into the wonders of space and the universe.
 
-As a pre-final year student, I am open to collaborations and discussions regarding AI and ML projects. Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com) if you have any questions or if you're interested in exploring potential collaborations in the exciting realms of Artificial Intelligence, Machine Learning, and Data Science.
+As a final year student, I am open to collaborations and discussions regarding AI and ML projects. Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com) if you have any questions or if you're interested in exploring potential collaborations in the exciting realms of Artificial Intelligence, Machine Learning, and Data Science.
 
-<!-- Resume Button -->
-<a href="https://drive.google.com/file/d/18UHMk9Ilr7rjncQpdagfZgIrkOwYAf9q/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
+Download
+<a href="https://drive.google.com/file/d/1ukRQQrkv8llnHhzTtDpWGMEVDlPvptyk/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
 
 
 ## 💫 Talking about personal stuff
 
-🔭 I’m currently working on ML stuffs.  
-👯 I’m looking to collaborate on ML projects.  
-🌱 I’m currently learning ML and DSA.  
+🔭 I’m currently working on Deep Learning stuff.  
+👯 I’m looking to collaborate on DL/ML projects.  
+🌱 I’m currently learning about Computer Vision and NLP  
 👨‍💻 Most of my projects are available on GitHub.  
 💬 Ask me about web development. I am happy to help.  
 📧 Reach me out at : preet.dev373@gmail.com.  
@@ -46,6 +46,7 @@ As a pre-final year student, I am open to collaborations and discussions regardi
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
