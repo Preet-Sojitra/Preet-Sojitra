@@ -4,19 +4,33 @@
 
 Glad to see you here 🤩!
 
-![image](https://github.com/Preet-Sojitra/Preet-Sojitra/assets/87543808/67b9d797-8ff6-4001-9f4b-305b249a830b)
+<!-- ![image](https://github.com/Preet-Sojitra/Preet-Sojitra/assets/87543808/67b9d797-8ff6-4001-9f4b-305b249a830b) -->
 
-Hello, I'm Preet Sojitra, currently a final year undergraduate student pursuing Computer Science at Pandit Deendayal Energy University in India. My primary focus lies in the realms of Artificial Intelligence, Machine Learning, and Data Science, with a keen interest in Computer Vision and robotics. As a developer skilled in both frontend and backend technologies, I specialize in crafting websites for individuals and small businesses.
+I'm **Preet Sojitra**, a final-year Computer Science student at Pandit Deendayal Energy University, where I'm turning caffeine and curiosity into code. My playground lies at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Robotics**, with a current deep dive into Natural Language Processing and Computer Vision—because why stop at teaching machines to think when you can also teach them to see and chat?
 
-Passionate about advancing my skills in AI, ML, and robotics, I am enthusiastic about exploring new opportunities that allow me to delve deeper into these fields. Beyond my academic pursuits, I am an avid learner who spends free time delving into the wonders of space and the universe.
+### What Keeps Me Busy (Besides Deadlines):
 
-As a final year student, I am open to collaborations and discussions regarding AI and ML projects. Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com) if you have any questions or if you're interested in exploring potential collaborations in the exciting realms of Artificial Intelligence, Machine Learning, and Data Science.
+- **AI/ML Research:** Working on exciting projects that blend innovation with a pinch of ambition.
+- **Exploring Robotics:** Because building smarter robots is as fun as it sounds.
+- **NLP & CV:** Crafting models to understand text, interpret images, and sometimes both simultaneously.
+
+### A Bit About My Code Life:
+
+Once upon a time, I was a full-stack web developer building websites for small businesses and individuals. Now, I've pivoted to AI/ML, tackling challenges with neural networks, transformers, and everything in between. (But hey, I still have a soft spot for clean and elegant code—whether it's Python or a pinch of JavaScript).
+
+### When I'm Not Coding:
+
+You'll usually find me glued to my laptop—sometimes battling the math behind AI concepts and trying to nail the intuition (with mixed results, but hey, that's the fun of learning). In my free time, I love playing chess, reading good thriller or murder mystery book, or just hanging out with friends.
+
+### Let's Collborate:
+
+Have an interesting AI/ML or robotics project in mind? Or just want to chat about how AI is reshaping our world? Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com)—I promise I'm much more responsive than your average chatbot.
 
 Download
 <a href="https://drive.google.com/file/d/1ukRQQrkv8llnHhzTtDpWGMEVDlPvptyk/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
 
 
-## 💫 Talking about personal stuff
+<!-- ## 💫 Talking about personal stuff
 
 🔭 I’m currently working on Deep Learning stuff.  
 👯 I’m looking to collaborate on DL/ML projects.  
@@ -24,7 +38,7 @@ Download
 👨‍💻 Most of my projects are available on GitHub.  
 💬 Ask me about web development. I am happy to help.  
 📧 Reach me out at : preet.dev373@gmail.com.  
-⚡ Fun fact : Obsessed with Space and Rockets 🚀.
+⚡ Fun fact : Obsessed with Space and Rockets 🚀. -->
 
 ## 🌐 Socials
 
