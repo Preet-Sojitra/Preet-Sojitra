@@ -6,7 +6,7 @@ Glad to see you here 🤩!
 
 <!-- ![image](https://github.com/Preet-Sojitra/Preet-Sojitra/assets/87543808/67b9d797-8ff6-4001-9f4b-305b249a830b) -->
 
-I'm **Preet Sojitra**, a final-year Computer Science student at Pandit Deendayal Energy University, where I'm turning caffeine and curiosity into code. My playground lies at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Robotics**, with a current deep dive into Natural Language Processing and Computer Vision—because why stop at teaching machines to think when you can also teach them to see and chat?
+I'm a Master's student in Computer Science at the **University of Texas at Dallas**, diving deep into the world of Intelligent Systems. My mission? To build AI that can see, hear, and understand context, moving us closer to truly aware and helpful technology. My core passion lies in **Multimodal Machine Learning**, where I get to blend vision, language, and audio to solve complex, real-world problems.
 
 ### What Keeps Me Busy (Besides Deadlines):
 
@@ -16,18 +16,21 @@ I'm **Preet Sojitra**, a final-year Computer Science student at Pandit Deendayal
 
 ### A Bit About My Code Life:
 
-Once upon a time, I was a full-stack web developer building websites for small businesses and individuals. Now, I've pivoted to AI/ML, tackling challenges with neural networks, transformers, and everything in between. (But hey, I still have a soft spot for clean and elegant code—whether it's Python or a pinch of JavaScript).
+I started my journey in full-stack development, building web apps from scratch. That foundation gave me a deep appreciation for building things that people can actually use. My curiosity, however, pulled me into the AI rabbit hole. Now, I'm obsessed with closing the gap between a research paper and a production-ready intelligent system. I've gone from building websites to building "brains," and I couldn't be more excited about what's next.
 
-### When I'm Not Coding:
+### Beyond the Code
 
-You'll usually find me glued to my laptop—sometimes battling the math behind AI concepts and trying to nail the intuition (with mixed results, but hey, that's the fun of learning). In my free time, I love playing chess, reading good thriller or murder mystery book, or just hanging out with friends.
+When I'm not training models or debugging code, you'll likely find me:
+- Strategizing my next move in a game of chess.
+- Getting lost in a good thriller or murder mystery novel.
+- Exploring the best food spots around Dallas with friends.
 
 ### Let's Collborate:
 
-Have an interesting AI/ML or robotics project in mind? Or just want to chat about how AI is reshaping our world? Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com)—I promise I'm much more responsive than your average chatbot.
+I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI.  Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com)!
 
 Download
-<a href="https://drive.google.com/file/d/1ukRQQrkv8llnHhzTtDpWGMEVDlPvptyk/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
+<a href="https://drive.google.com/file/d/18lD4MjT9ud_JQ8-BMhS-Dl7lqNnSLqB0/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
 
 
 <!-- ## 💫 Talking about personal stuff
@@ -43,7 +46,7 @@ Download
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-sojitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preet_Sojitra03) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/preetsojitra)
-[![Website](https://img.shields.io/badge/Website-%23121011.svg?logo=google-chrome&logoColor=white)](https://preet-sojitra-github-io.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-%23121011.svg?logo=google-chrome&logoColor=white)](https://preet-sojitra.github.io/)
 
 ## 💻 Skills
 
