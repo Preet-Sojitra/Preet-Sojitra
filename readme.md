@@ -10,9 +10,17 @@ I'm a Master's student in Computer Science at the **University of Texas at Dalla
 
 ### What Keeps Me Busy (Besides Deadlines):
 
+My work is a mix of broad research interests and specific, ongoing projects.
+
+**Core Interests:**
 - **AI/ML Research:** Working on exciting projects that blend innovation with a pinch of ambition.
-- **Exploring Robotics:** Because building smarter robots is as fun as it sounds.
 - **NLP & CV:** Crafting models to understand text, interpret images, and sometimes both simultaneously.
+
+**Current Focus:**
+- 🤫 **Project Under Wraps:** Developing a new, large-scale benchmark intended to become a standard for the community. (More to come!)
+- 📚 **Open Source:** Contributing to [UTD-Notebook](https://github.com/UTDNebula/utd-notebook), a new platform for sharing course notes at my university.
+- 🧹 **Finishing What I Started:** I'm on a mission to finish my incomplete projects before starting new ones. (Holding myself accountable!)
+- 💻 **The Daily Grind:** And of course, LeetCode. (It's a love-hate relationship.)
 
 ### A Bit About My Code Life:
 
@@ -30,7 +38,7 @@ When I'm not training models or debugging code, you'll likely find me:
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI.  Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=preet.dev373@gmail.com)!
 
 Download
-<a href="https://drive.google.com/file/d/18lD4MjT9ud_JQ8-BMhS-Dl7lqNnSLqB0/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
+<a href="https://drive.google.com/file/d/1EfdvTf7JVw5u8fHY8B9rRJi7ASCWCIof/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
 
 
 <!-- ## 💫 Talking about personal stuff
@@ -52,15 +60,19 @@ Download
 
 #### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://skillicons.dev/icons?i=python,js,c,java,bash"/>
+
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
 
 #### Libraries
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,ros"/>
+
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -69,25 +81,29 @@ Download
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23white.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-%23000.svg?style=for-the-badge&logo=ROS&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%23000.svg?style=for-the-badge&logo=ROS&logoColor=white) -->
 
 #### Frameworks
 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flask,nextjs,react,express,nodejs,tailwindcss"/>
+
+<!-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=for-the-badge&logo=Express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) -->
 
 #### Tools and Others
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,linux,git,docker,aws"/>
+
+<!-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) -->
 
 
 ## 📊 GitHub Stats
